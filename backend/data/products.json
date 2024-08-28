@@ -1,0 +1,322 @@
+[
+    {
+        "name": "CARDAMOM",
+        "price": 500,
+        "description": "Cardamom, sometimes cardamon or cardamum, is a spice made from the seeds of several plants in the genera Elettaria and Amomum in the family Zingiberaceae. Both genera are native to the Indian subcontinent and Indonesia.Cardamom pairs well with both sweet and savory flavors and can be added to dishes like curries, baked goods, and meat dishes.",
+
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/cardamom1.jpg"
+            },
+            {
+                "image": "/images/products/cardamom2.jpg"
+            },
+            {
+                "image": "/images/products/cardamom3.jpg"
+            },
+            {
+                "image": "/images/products/cardamom4.jpg"
+            },
+            {
+                "image": "/images/products/cardamom5.jpg"
+            }
+        ],
+        "category": "Spices",
+        "seller": "Hera products",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Healthy nuts",
+        "price": 370,
+        "description": "Dry fruits and nuts are rich in protein, energy and many macronutrients and micronutrients. They are also an excellent energy source with natural sugars. Different nuts and fruits have different nutrition values, and a good mix of these can be a source of nutrition-packed snacks.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/dryfruit1.jpg"
+            },
+            {
+                "image": "/images/products/dryfruit2.jpg"
+            },
+            {
+                "image": "/images/products/dryfruit3.jpg"
+            },
+            {
+                "image": "/images/products/dryfruit4.jpg"
+            }
+        ],
+        "category": "Dry Fruits",
+        "seller": "ABC dryfruit",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Natural Honey",
+        "price": 250,
+        "description": "Untamed Beauty: Our honey originates from the unspoiled Himalayan Foothills, where nature's harmony prevails. Straight from the hive to your table, our honey retains its raw, unprocessed quality.",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/honey1.jpg"
+            },
+            {
+                "image": "/images/products/honey2.jpg"
+            },
+            {
+                "image": "/images/products/honey3.jpg"
+            },
+            {
+                "image": "/images/products/honey4.jpg"
+            }
+        ],
+        "category": "Honey",
+        "seller": "Bee Honey products",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Cinnamom",
+        "price": 150,
+        "description": "Cinnamon is a spice obtained from the inner bark of several tree species from the genus Cinnamomum. Cinnamon is used mainly as an aromatic condiment and flavouring additive in a wide variety of cuisines, sweet and savoury dishes, breakfast cereals, snack foods, bagels, teas, hot chocolate and traditional foods.",
+        "ratings": 2,
+        "images": [
+          {
+            "image": "/images/products/cinnamom1.jpg"
+          },
+          {
+            "image": "/images/products/cinnamom2.jpg"
+          },
+          {
+            "image": "/images/products/cinnamom3.jpg"
+          },
+          {
+            "image": "/images/products/cinnamom4.jpg"
+          },
+          {
+            "image": "/images/products/cinnamom5.jpg"
+          }
+        ],
+        "category": "Spices",
+        "seller": "Hera products",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Cardamom Oil",
+        "price": 800,
+        "description": "The chemical makeup of Cardamom essential oil makes it a calming oil—allowing it to provide soothing effects for the digestive system when ingested. Cardamom oil can be used to slow down muscle contractions in the intestines and to ease bowel looseness,* which is why it is commonly taken to aid in digestion.",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/cardamomoil1.jpg"
+          },
+          {
+            "image": "/images/products/cardamomoil2.jpg"
+          },
+          {
+            "image": "/images/products/cardamomoil3.jpg"
+          }
+        ],
+        "category": "Oil",
+        "seller": "VVR oils",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Healthy nuts",
+        "price": 750,
+        "description": "Dried fruit is fruit that has had almost all of the water content removed through drying methods. The fruit shrinks during this process, leaving a small, energy-dense dried fruit. Raisins are the most common type, followed by dates, prunes, figs and apricots.Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/dryfruit5.jpg"
+            },
+            {
+                "image": "/images/products/dryfruit6.jpg"
+            },
+            {
+                "image": "/images/products/dryfruit7.jpg"
+            },
+            {
+                "image": "/images/products/dryfruit8.jpg"
+            }
+        ],
+        "category": "Dry Fruits",
+        "seller": "ABC dryfruit",
+        "stock": 8,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Mangal Turmeric",
+        "price": 150,
+        "description": "Turmeric, is a flowering plant in the ginger family Zingiberaceae. It is a perennial, rhizomatous, herbaceous plant native to the Indian subcontinent and Southeast Asia that requires temperatures between 20 and 30 °C and high annual rainfall to thrive.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/turmeric1.jpg"
+            },
+            {
+                "image": "/images/products/turmeric2.jpg"
+            },
+            {
+                "image": "/images/products/turmeric3.jpg"
+            },
+            {
+                "image": "/images/products/turmeric4.jpg"
+            }
+        ],
+        "category": "Spices",
+        "seller": "Vijaya Masalas",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Groundnut Oil",
+        "price": 250,
+        "description": "Groundnut oil is important dietary food source of resveratrol with potent antioxidant properties thus helps in reducing risk of cancer, cardiovascular and Alzheimer's disease, and delaying aging. Groundnut oil can be used for deep frying and high temperature cooking as it has high smoking point.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/groundnutoil1.jpg"
+            },
+            {
+                "image": "/images/products/groundnutoil2.jpg"
+            },
+            {
+                "image": "/images/products/groundnutoil3.jpg"
+            }
+        ],
+        "category": "Oil",
+        "seller": "Mk Oil mills",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Fenugreek",
+        "price": 120,
+        "description": "Fenugreek is native to the Mediterranean, Europe, and Asia. Fenugreek seems to slow sugar absorption in the stomach and stimulate insulin. Both of these effects lower blood sugar in people with diabetes. Fenugreek might also improve levels of testosterone and estrogen, helping to improve interest in sex.Fenugreek seeds may be helpful for people with diabetes. The seeds contain fiber and other chemicals that may slow digestion and the body's absorption of carbohydrates and sugar. The seeds may also help improve how the body uses sugar and increases the amount of insulin released.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/fenugreek1.jpg"
+            },
+            {
+                "image": "/images/products/fenugreek2.jpg"
+            },
+            {
+                "image": "/images/products/fenugreek3.jpg"
+            },
+            {
+                "image": "/images/products/fenugreek4.jpg"
+            }
+        ],
+
+        "category": "Spices",
+        "seller": "Natural plant",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Mangal Turmeric",
+        "price": 170,
+        "description": "Turmeric, is a flowering plant in the ginger family Zingiberaceae. It is a perennial, rhizomatous, herbaceous plant native to the Indian subcontinent and Southeast Asia that requires temperatures between 20 and 30 °C and high annual rainfall to thrive.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/turmeric5.jpg"
+            },
+            {
+                "image": "/images/products/turmeric6.jpg"
+            }
+        ],
+        "category": "Spices",
+        "seller": "Vijaya Masalas",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "The Best Coriander",
+        "price": 370,
+        "description": "Coriander seed is a spice in garam masala, and Indian curries, which often employ the ground fruits in generous amounts together with cumin, acting as a thickener in a mixture called dhania jeera. Roasted coriander seeds, called dhania dal, are eaten as a snack.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/coriander1.webp"
+            },
+            {
+                "image": "/images/products/coriander2.jpg"
+            },
+            {
+                "image": "/images/products/coriander3.jpg"
+            },
+            {
+                "image": "/images/products/coriander4.jpg"
+            }
+        ],
+        "category": "Spices",
+        "seller": "DD Masalas",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Cumin Seeds ",
+        "price": 770,
+        "description": "Cumin is a flowering plant in the family Apiaceae, native to the Irano-Turanian Region. Its seeds – each one contained within a fruit, which is dried – are used in the cuisines of many cultures in both whole and ground form.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/cumin1.webp"
+            },
+            {
+                "image": "/images/products/cumin2.jpg"
+            },
+            {
+                "image": "/images/products/cumin3.jpg"
+            },
+            {
+                "image": "/images/products/cumin4.jpg"
+            }
+        ],
+        "category": "Spices",
+        "seller": "Seeds for Food pvt Ltd",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Olive ",
+        "price": 950,
+        "description": "Olive oil comes from the olive fruit and contains monounsaturated fatty acids. Fatty acids in olive oil seem to decrease cholesterol levels and have anti-inflammatory effects. Olive oil is commonly used in foods. As medicine, people most commonly use olive oil for heart disease, diabetes, and high blood pressure.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/oliveoil1.jpg"
+            },
+            {
+                "image": "/images/products/oliveoil2.jpg"
+            },
+            {
+                "image": "/images/products/oliveoil3.jpg"
+            }
+        ],
+        "category": "Oil",
+        "seller": "Maya Oil mills",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+
+
+]
